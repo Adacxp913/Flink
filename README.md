@@ -4,7 +4,7 @@
 
 参照指导，下载和配置docker  
 1、下载代码
-git clone https://github.com/apache/flink-playgrounds.git  
+git clone https://github.com/apache/flink-playgrounds.git 
 2、创建flink运行需要的检查点和保存点目录
 ```
 mkdir -p /tmp/flink-checkpoints-directory
